@@ -3,7 +3,8 @@ This project is an AI research assistant that implements agentic workflows using
 # Installation
 ### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/aconstas/ai_agent.git
+cd ai_agent
 ```
 ### 2. Set Up Virtual Environment
 ```bash
