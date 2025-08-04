@@ -1,0 +1,33 @@
+--- Research Output ---
+Timestamp: 2025-08-04 12:21:09
+
+HISTORY OF ARTIFICIAL INTELLIGENCE RESEARCH
+
+Topic: History of Artificial Intelligence
+
+Summary:
+The history of artificial intelligence spans over seven decades, beginning with theoretical foundations in the 1940s and evolving through distinct periods of optimism, setbacks, and breakthroughs. The field formally began with Alan Turing's pioneering work in the 1940s-1950s, including his famous "Turing Test" proposed in 1950 as a measure of machine intelligence. The term "artificial intelligence" was coined at the Dartmouth Workshop in 1956, organized by John McCarthy, Marvin Minsky, and others, marking the official birth of AI as an academic discipline.
+
+The early years (1950s-1970s) were characterized by ambitious goals and initial successes with symbolic AI and expert systems. However, this was followed by the first "AI Winter" in the 1970s-1980s, a period of reduced funding and interest due to unmet expectations and technical limitations. A second AI Winter occurred in the late 1980s to early 1990s following the collapse of the expert systems market.
+
+The field experienced a renaissance in the 1990s-2000s with advances in machine learning, statistical methods, and computational power. The breakthrough moment came around 2012 with the deep learning revolution, particularly the success of AlexNet in the ImageNet competition, which demonstrated the power of deep neural networks for image recognition.
+
+The 2010s saw rapid progress in deep learning applications across various domains, leading to the current era (2020s) dominated by large language models like GPT series and transformer architectures. These developments have brought AI into mainstream applications and public consciousness, marking perhaps the most significant period of AI advancement since the field's inception.
+
+Key milestones include: the Turing Test (1950), Dartmouth Workshop (1956), development of expert systems (1970s-1980s), machine learning advances (1990s), deep learning breakthrough (2012), and the emergence of large language models (2020s).
+
+Sources:
+- Wikipedia: History of artificial intelligence
+- Wikipedia: Turing test  
+- Wikipedia: Dartmouth workshop
+- Wikipedia: AI winter
+- Wikipedia: ImageNet
+- Wikipedia: Symbolic artificial intelligence
+- Research papers and articles on deep learning breakthroughs
+- Contemporary sources on large language models and transformers
+
+Tools Used:
+- Wikipedia search for historical context and key events
+- DuckDuckGo search for contemporary developments and recent breakthroughs
+- File saving for research compilation
+
