@@ -33,7 +33,7 @@ python main.py
 
 ![alt text](image.png)
 
-3. You will see a file named "research_output.txt" in the repositories root folder. (There is an example "research_output.txt" in the repository).
+3. You will see a file named "research_output.txt" in the repository's root folder. (There is an example "research_output.txt" in the repository.)
 
 # Pydantic
 **Pydantic** is a data validation library that ensures data matches a specific structure and format -- like a contract.
